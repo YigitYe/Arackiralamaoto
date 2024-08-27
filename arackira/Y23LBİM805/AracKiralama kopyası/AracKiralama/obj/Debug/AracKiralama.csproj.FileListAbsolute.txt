@@ -1,0 +1,17 @@
+C:\Users\Ahmet\source\repos\AracKiralama\AracKiralama\bin\Debug\AracKiralama.exe.config
+C:\Users\Ahmet\source\repos\AracKiralama\AracKiralama\bin\Debug\AracKiralama.exe
+C:\Users\Ahmet\source\repos\AracKiralama\AracKiralama\bin\Debug\AracKiralama.pdb
+C:\Users\Ahmet\source\repos\AracKiralama\AracKiralama\obj\Debug\AracKiralama.csproj.AssemblyReference.cache
+C:\Users\Ahmet\source\repos\AracKiralama\AracKiralama\obj\Debug\AracKiralama.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ahmet\source\repos\AracKiralama\AracKiralama\obj\Debug\AracKiralama.MusteriListele.resources
+C:\Users\Ahmet\source\repos\AracKiralama\AracKiralama\obj\Debug\AracKiralama.Properties.Resources.resources
+C:\Users\Ahmet\source\repos\AracKiralama\AracKiralama\obj\Debug\AracKiralama.csproj.GenerateResource.cache
+C:\Users\Ahmet\source\repos\AracKiralama\AracKiralama\obj\Debug\AracKiralama.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\source\repos\AracKiralama\AracKiralama\obj\Debug\AracKiralama.exe
+C:\Users\Ahmet\source\repos\AracKiralama\AracKiralama\obj\Debug\AracKiralama.pdb
+C:\Users\Ahmet\source\repos\AracKiralama\AracKiralama\obj\Debug\AracKiralama.AracEkle.resources
+C:\Users\Ahmet\source\repos\AracKiralama\AracKiralama\obj\Debug\AracKiralama.AracListele.resources
+C:\Users\Ahmet\source\repos\AracKiralama\AracKiralama\obj\Debug\AracKiralama.Anasayfa.resources
+C:\Users\Ahmet\source\repos\AracKiralama\AracKiralama\obj\Debug\AracKiralama.MusteriEkle.resources
+C:\Users\Ahmet\source\repos\AracKiralama\AracKiralama\obj\Debug\AracKiralama.Satis.resources
+C:\Users\Ahmet\source\repos\AracKiralama\AracKiralama\obj\Debug\AracKiralama.Sozlesme.resources
